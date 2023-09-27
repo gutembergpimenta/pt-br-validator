@@ -2,8 +2,6 @@
 
 Esta biblioteca adiciona validações brasileira ao Laravel, como CPF, CNPJ, Placa de Carro, CEP, Telefone, Celular e afins.
 
-:brazil::brazil::brazil:
-
 ## Versões
 
 <table>
